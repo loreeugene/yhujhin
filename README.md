@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**yhujhin/yhujhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 📊 Data Enthusiast | 🐍 Python Lover | 📊 Data Visualization Geek
 
 Hello there! I'm [Your Name], a data enthusiast with a keen interest in exploring and visualizing data. My GitHub journey is all about sharing my coding adventures as I dive into projects that enhance my data analysis and Python skills.
@@ -12,6 +7,9 @@ I'm passionate about leveraging the power of code to uncover insights hidden wit
 Connect with me and let's dive into the exciting realm of data exploration and analysis together.
 
 Happy coding!
+
+<!--
+**yhujhin/yhujhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
