@@ -1,6 +1,6 @@
 📊 Data Enthusiast | 🐍 Python Lover | 📊 Data Visualization Geek
 
-Hello there! I'm [Your Name], a data enthusiast with a keen interest in exploring and visualizing data. My GitHub journey is all about sharing my coding adventures as I dive into projects that enhance my data analysis and Python skills.
+Hello there! I'm Lore, a data enthusiast with a keen interest in exploring and visualizing data. My GitHub journey is all about sharing my coding adventures as I dive into projects that enhance my data analysis and Python skills.
 
 I'm passionate about leveraging the power of code to uncover insights hidden within datasets. From SQL to Python libraries like Pandas and Matplotlib, I'm excited to collaborate, learn, and contribute to the world of data-driven discoveries. Join me on this coding odyssey!
 
